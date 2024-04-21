@@ -1,1 +1,4 @@
-# Movie_Recommendation_Model
+# Movie Recommendation System
+This is a Movie Recommendation System implemented using various models which are KNN, Linear Regression, SVM, Random Forest and Naive Bayes techniques.
+## Data
+The data used is taken from Kaggle:
