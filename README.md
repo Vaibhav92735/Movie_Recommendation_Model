@@ -3,3 +3,5 @@ This is a Movie Recommendation System implemented using various models which are
 ## Data
 The data used is taken from Kaggle:
 [Data](https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset)
+## Usage
+Run the file PRML_PROJECT.ipynb on a supported platform.
